@@ -2,3 +2,15 @@ I'm putting something in this file!
 
 
 Some text by Jason
+
+This is the text added for lab 2.
+
+As requested, there are more changes to the file.
+Another line...
+
+
+A line in the rad branch.
+
+Step 3.12 Added a line
+
+Extra text for step 25.
